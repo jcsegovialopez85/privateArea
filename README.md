@@ -8,13 +8,13 @@ Technical test for backends has been done with PHP Phalcon Framework.
 
 ### XAMP
 
-- **Windows:** [[https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe|https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe]]
+- **Windows:** https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe
 
-- **MacOS:** [https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.30/xampp-osx-5.6.30-1-installer.dmg/download|https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.30/xampp-osx-5.6.30-1-installer.dmg/download
+- **MacOS:** https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.30/xampp-osx-5.6.30-1-installer.dmg/download
 
 ### Phalcon Framework
 
-- [https://docs.phalconphp.com/en/3.2/installation|https://docs.phalconphp.com/en/3.2/installation
+- https://docs.phalconphp.com/en/3.2/installation
 
 ### Configure Web server
 
