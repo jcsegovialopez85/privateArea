@@ -1,0 +1,1 @@
+{{ partial("layouts/hello-user") }}
