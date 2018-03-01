@@ -56,11 +56,11 @@ Execute test from folder tests.
 Review apache has permissions to write in privateArea/cache/volt folder.
 
 ## Dockerize  
-Execute:  
+### Execute:  
 	docker run --name test -p 8080:80 -d nikeyes/test-tech 
 	
-Create Image:  
-	docker image build -t test-tech .
-	docker image tag test-tech nikeyes/test-tech
-	docker image push nikeyes/test-tech
+### Create Image:  
+	docker image build -t test-tech .  
+	docker image tag test-tech nikeyes/test-tech  
+	docker image push nikeyes/test-tech  
 	
