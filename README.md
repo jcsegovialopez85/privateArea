@@ -57,7 +57,8 @@ Review apache has permissions to write in privateArea/cache/volt folder.
 
 ## Dockerize  
 ### Execute:  
-	docker run --name test -p 8080:80 -d nikeyes/test-tech 
+	docker run --name test -p 8080:80 -d nikeyes/test-tech  
+	> Navigate To: http://localhost:8080
 	
 ### Create Image:  
 	docker image build -t test-tech .  
