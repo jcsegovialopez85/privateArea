@@ -54,3 +54,14 @@ Execute test from folder tests.
 - If message "Volt directory can't be written" is shown when access to website:
 
 Review apache has permissions to write in privateArea/cache/volt folder.
+
+## Dockerize  
+### Execute:  
+	docker run --name test -p 8080:80 -d nikeyes/test-tech  
+	> Navigate To: http://localhost:8080
+	
+### Create Image:  
+	docker image build -t test-tech .  
+	docker image tag test-tech nikeyes/test-tech  
+	docker image push nikeyes/test-tech  
+	
